@@ -36,5 +36,7 @@ function addNewElement() {
     else {
         alert("Listeye boş eleman eklenemez!")
     }
+
+    
 }
 
